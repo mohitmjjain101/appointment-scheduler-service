@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "appointment-scheduler-service",
   "version": "1.0.0",
   "type": "module",
   "description": "",
